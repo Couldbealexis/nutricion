@@ -1,0 +1,42 @@
+{
+    "name": "Alimentación complementaria",
+    "short_name": "Alimentación complementaria",
+    "theme_color": "#8186d5",
+    "background_color": "#8186d5",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/Nutrition/index.html",
+    "icons": [
+        {
+            "src": "assets/img/icons/icon-128.ico",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icons/icon-144.ico",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icons/icon-152.ico",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icons/icon-192.ico",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icons/icon-256.ico",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/img/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
