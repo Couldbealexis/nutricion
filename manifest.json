@@ -6,7 +6,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/Nutrition/index.html",
+    "start_url": "/nutricion/index.html",
     "icons": [
         {
             "src": "assets/img/icons/icon-128.ico",
